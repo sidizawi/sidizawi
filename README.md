@@ -1,21 +1,47 @@
 <div align="center">
 
-# Hi there :wave:, I'm Sidi!
+# Welcome to Sidi's profile! :wave:
 
 </div>
 
+<h3 align="center">A developer passionate about technology.</h3>
+
+<h3>🔌 Connect with me</h3>
+
+##
 
 <div align="center">
-
+ <p>
+  <a href="https://www.linkedin.com/in/sidi-zawi-23197b174/" target="_blank"><img align="center" src="https://github.com/ryihan/ryihan-material/blob/main/Icon/linkedin.svg" alt="linkedin" /></a>
+ <a href="mailto:zawisidim@gmail.com">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
+  </a>
+ </p>
  
+ <h2 align="left">👩‍💻 Skills</h2>
+
 <p>
- <a href="https://www.linkedin.com/in/sidi-m-zawi-23197b174/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.python.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Python/python.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.learn-c.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/C/c.svg" alt="c" width="40" height="40"/>
+  <a href="https://code.visualstudio.com"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="vscode" width="40" height="40"/>
+  <a href="https://developer.android.com/studio/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Android/android.svg" alt="androidstudio" width="40" height="40"/>
+  <a href="https://www.postgresql.org"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Postgresql/postgresql.svg" alt="postgresql" width="40" height="40"/>
+  <a href="https://git-scm.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Git/git.svg" alt="git" width="40" height="40"/>
+  <a href="https://bitbucket.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Bitbucket/bitbucket.svg" alt="bitbucket" width="40" height="40"/>
+  <a href="https://gitlab.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/GitLab/gitlab.svg" alt="gitlab" width="40" height="40"/>
+  <a href="https://ubuntu.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
+  <a href="https://www.debian.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Debian/debian_original.svg" alt="debian" width="40" height="40"/>
+  <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"/>
+  <a href="https://www.raspberrypi.org/software/operating-systems"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Raspberry%20Pi/raspberry_pi.svg" alt="raspberrypi" width="40" height="40"/>
+  <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
+  <a href="https://reactjs.org//"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/React/react.svg" alt="react" width="40" height="40"/>
+  <a href="https://nodejs.org/en/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/NodeJS/nodejs.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
 </p>
  
- ## 
-<p>
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sidizawi&show_icons=true&theme=tokyonight&include_all_commits=true" />
- <img width=41.6%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidizawi&layout=compact&theme=tokyonight" />
-</p>
-
+ ##
+ <p>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sidizawi&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img width=41.6%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidizawi&layout=compact&theme=tokyonight" /> 
+ </p>
 </div>
