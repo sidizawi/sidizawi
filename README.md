@@ -32,7 +32,6 @@
   <a href="https://ubuntu.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Ubuntu/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
   <a href="https://www.debian.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Debian/debian_original.svg" alt="debian" width="40" height="40"/>
   <a href="https://www.microsoft.com/pt-br/windows/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="windows" width="40" height="40"/>
-  <a href="https://www.raspberrypi.org/software/operating-systems"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Raspberry%20Pi/raspberry_pi.svg" alt="raspberrypi" width="40" height="40"/>
   <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
   <a href="https://reactjs.org//"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/React/react.svg" alt="react" width="40" height="40"/>
   <a href="https://nodejs.org/en/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/NodeJS/nodejs.svg" alt="nodejs" width="40" height="40"/>
@@ -55,3 +54,51 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Keiko Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sidizawi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 -->
+
+##
+<div>
+ <h1>Projects:</h1>
+ 
+ <h3>React</h3>
+ <ul>
+  <li><a href="https://github.com/sidizawi/resort">Hotel reservation app</a></li>
+  <li><a href="https://github.com/sidizawi/random-quote">Random quote app</a></li>
+ </ul>
+                                                  
+                                                  
+ <h3>Sorting Algorithms</h3>
+ <ul>
+  <li><a href="https://github.com/sidizawi/mergeSort">Merge Sort</a></li>
+  <li><a href="https://github.com/sidizawi/quickSort">Quick Sort</a></li>
+  <li><a href="https://github.com/sidizawi/radixSort">Radix Sort</a></li>
+ </ul>
+ 
+                                                     
+ <h3>School 19 (42 Network) projects</h3>
+ <ul>
+  <li><a href="https://github.com/sidizawi/libft">C library</a></li>
+  <li><a href="https://github.com/sidizawi/get_next_line">Get next line</a></li>
+  <li><a href="https://github.com/sidizawi/printf">Printf</a></li>
+ </ul>
+      
+                                                  
+ <h3>Flutter projects</h3>
+ <ul>
+  <li><a href="https://github.com/sidizawi/imrich">I'm rich app</a></li>
+  <li><a href="https://github.com/sidizawi/i_am_poor">I am poor app</a></li>
+  <li><a href="https://github.com/sidizawi/mi_card">Mi card app</a></li>
+  <li><a href="https://github.com/sidizawi/dicee">Dicee app</a></li>
+  <li><a href="https://github.com/sidizawi/magic_8_ball">Magic 8 ball app</a></li>
+  <li><a href="https://github.com/sidizawi/xylophone">Xylophone app</a></li>
+  <li><a href="https://github.com/sidizawi/quizzler">Quizzler app</a></li>
+  <li><a href="https://github.com/sidizawi/destini">Destini app</a></li>
+  <li><a href="https://github.com/sidizawi/bmi_calculator">Bmi calculator app</a></li>
+ </ul>
+                                                     
+                                                     
+ <h3>Some PR</h3>
+ <ul>
+  <li><a href="https://github.com/wearebraid/vueformulate.com/pull/106">Vue formulate</a></li>
+  <li><a href="https://github.com/nuxt/nuxtjs.org/pull/1519">Nuxtjs</a></li>
+ </ul>
+</div>
