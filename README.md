@@ -64,6 +64,11 @@
   <li><a href="https://github.com/sidizawi/resort">Hotel reservation app</a></li>
   <li><a href="https://github.com/sidizawi/random-quote">Random quote app</a></li>
  </ul>
+                                                        
+ <h3>Django</h3>
+ <ul>
+  <li><a href="http://sidizawi99.pythonanywhere.com/">Django project with several apps</a></li>
+ </ul>
                                                   
                                                   
  <h3>Sorting Algorithms</h3>
