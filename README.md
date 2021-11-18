@@ -35,7 +35,7 @@
   <a href="https://www.docker.com/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/Docker/docker.svg" alt="docker" width="40" height="40"/>
   <a href="https://reactjs.org//"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/React/react.svg" alt="react" width="40" height="40"/>
   <a href="https://nodejs.org/en/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/NodeJS/nodejs.svg" alt="nodejs" width="40" height="40"/>
-  <a href="https://br.wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
+  <a href="https://wordpress.org/"><img src="https://github.com/keikomori/icons-badges/blob/master/icons/WordPress/wordpress.svg" alt="wordpress" width="40" height="40"/>
 </p>
  
  ##
