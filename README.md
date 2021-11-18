@@ -84,6 +84,8 @@
   <li><a href="https://github.com/sidizawi/libft">C library</a></li>
   <li><a href="https://github.com/sidizawi/get_next_line">Get next line</a></li>
   <li><a href="https://github.com/sidizawi/printf">Printf</a></li>
+  <li><a href="https://github.com/sidizawi/minitalk">Minitalk</a></li>
+  <li><a href="https://github.com/sidizawi/push_swap">Push swap</a></li>
  </ul>
       
                                                   
