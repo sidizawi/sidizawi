@@ -67,7 +67,7 @@
                                                         
  <h3>Django</h3>
  <ul>
-  <li><a href="http://sidizawi99.pythonanywhere.com/">Django project with several apps</a></li>
+  <li><a href="https://github.com/sidizawi/mysite">First Django project</a></li>
  </ul>
                                                   
                                                   
