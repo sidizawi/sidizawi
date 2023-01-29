@@ -57,51 +57,6 @@
 
 ##
 <div>
- <h1>Projects:</h1>
- 
- <h3>React</h3>
- <ul>
-  <li><a href="https://github.com/sidizawi/resort">Hotel reservation app</a></li>
-  <li><a href="https://github.com/sidizawi/random-quote">Random quote app</a></li>
- </ul>
-                                                        
- <h3>Django</h3>
- <ul>
-  <li><a href="https://github.com/sidizawi/mysite">First Django project</a></li>
- </ul>
-                                                  
-                                                  
- <h3>Sorting Algorithms</h3>
- <ul>
-  <li><a href="https://github.com/sidizawi/mergeSort">Merge Sort</a></li>
-  <li><a href="https://github.com/sidizawi/quickSort">Quick Sort</a></li>
-  <li><a href="https://github.com/sidizawi/radixSort">Radix Sort</a></li>
- </ul>
- 
-                                                     
- <h3>School 19 (42 Network) projects</h3>
- <ul>
-  <li><a href="https://github.com/sidizawi/libft">C library</a></li>
-  <li><a href="https://github.com/sidizawi/get_next_line">Get next line</a></li>
-  <li><a href="https://github.com/sidizawi/printf">Printf</a></li>
-  <li><a href="https://github.com/sidizawi/minitalk">Minitalk</a></li>
-  <li><a href="https://github.com/sidizawi/push_swap">Push swap</a></li>
- </ul>
-      
-                                                  
- <h3>Flutter projects</h3>
- <ul>
-  <li><a href="https://github.com/sidizawi/imrich">I'm rich app</a></li>
-  <li><a href="https://github.com/sidizawi/i_am_poor">I am poor app</a></li>
-  <li><a href="https://github.com/sidizawi/mi_card">Mi card app</a></li>
-  <li><a href="https://github.com/sidizawi/dicee">Dicee app</a></li>
-  <li><a href="https://github.com/sidizawi/magic_8_ball">Magic 8 ball app</a></li>
-  <li><a href="https://github.com/sidizawi/xylophone">Xylophone app</a></li>
-  <li><a href="https://github.com/sidizawi/quizzler">Quizzler app</a></li>
-  <li><a href="https://github.com/sidizawi/destini">Destini app</a></li>
-  <li><a href="https://github.com/sidizawi/bmi_calculator">Bmi calculator app</a></li>
- </ul>
-                                                     
                                                      
  <h3>Some PR</h3>
  <ul>
